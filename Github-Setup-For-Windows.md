@@ -8,7 +8,7 @@
 6. Type git config --global user.name “your username”
 7. Type git config –global user.email “your email address”
 8. Type git clone * use https URL
-9. cd file name/
+9. cd "your-unique-git-folder"
 10. git add .
 11. git commit –m “added changes”
 12. git push origin master
