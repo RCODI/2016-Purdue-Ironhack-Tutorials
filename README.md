@@ -54,3 +54,5 @@ For Github setup on Mac, [go here](Github-Setup-For-Mac.md)
 ### Tutorial Project    
 
 We have made a complete tutorial project along the lines of the problem statement. You can find the tutorial [here](Tutorial Project.md) and demo [here](http://rawgit.com/priyankjain/2016-Purdue-Ironhack-Tutorials/master/2016-Purdue-Ironhacks-Tutorial-Project.html).
+
+[![DOI](https://zenodo.org/badge/67895718.svg)](https://zenodo.org/badge/latestdoi/67895718)
